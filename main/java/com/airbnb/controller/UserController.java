@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/v1/users")
 public class UserController {
 //hfhjkxj
+
+//    mubashira first commit
     private final UserService userService;
 
     // Constructor-based injection (no need for @Autowired if you're using this)
